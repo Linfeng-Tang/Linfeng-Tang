@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Linfeng-Tang)
-
-![Linfeng's github stats](https://github-readme-stats.vercel.app/api?username=Linfeng-Tang&show_icons=true&theme=radical) 
+--> ![Linfeng's github stats](https://github-readme-stats.vercel.app/api?username=Linfeng-Tang&show_icons=true&theme=radical) 
 
 
 

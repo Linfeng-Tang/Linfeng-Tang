@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 --> 
 ![Linfeng's github stats](https://github-readme-stats.vercel.app/api?username=Linfeng-Tang&show_icons=true&theme=radical) 
 
-💬 I am a PhD student at Wuhan University, School of Electronic Information.
+#### 💬 I am a PhD student at Wuhan University, School of Electronic Information.
 
-🔭 Reseach-wise, I mainly focus on:
+#### 🔭 Reseach-wise, I mainly focus on:
   - Information Fusion
   - Image Enhancement
 
+#### ⚡Publications:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linfeng-Tang)](https://github.com/Linfeng-Tang/)

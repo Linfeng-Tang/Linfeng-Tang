@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 #### 💬 I am a PhD student at Wuhan University, School of Electronic Information.
 
 #### 🔭 Reseach-wise, I mainly focus on:
-  - Information Fusion
-  - Image Enhancement
+  - **Information Fusion**
+  - **Image Enhancement**
 
 #### ⚡Publications:
 1. **Linfeng Tang**, Jiteng Yuan, and Jiayi Ma*. "Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network", Information Fusion, 82, pp. 28-42, 2022. 【[Paper](https://www.sciencedirect.com/science/article/pii/S1566253521002542)】【[Code](https://github.com/Linfeng-Tang/SeAFusion)】

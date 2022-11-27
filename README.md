@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Linfeng-Tang&repo=Linfeng-Tang)](https://github.com/Linfeng-Tang?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linfeng-Tang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linfeng-Tang)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Linfeng-Tang)

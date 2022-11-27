@@ -1,4 +1,4 @@
-### Hi there  I'm [Linfeng Tang](https://scholar.google.com/citations?user=PyRqpAsAAAAJ&hl=en) (唐霖峰 in Chinese)!
+### 😄  Hi there  I'm [Linfeng Tang](https://scholar.google.com/citations?user=PyRqpAsAAAAJ&hl=en) (唐霖峰 in Chinese)!
 
 <!--
 **Linfeng-Tang/Linfeng-Tang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-😄 ![Linfeng's github stats](https://github-readme-stats.vercel.app/api?username=Linfeng-Tang&show_icons=true&theme=radical) 
+![Linfeng's github stats](https://github-readme-stats.vercel.app/api?username=Linfeng-Tang&show_icons=true&theme=radical) 
 
 💬 I am a PhD student at Wuhan University, School of Electronic Information.
 

@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->、
 ![Linfeng's github stats](https://github-readme-stats.vercel.app/api?username=Linfeng-Tang&show_icons=true&theme=radical) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Linfeng-Tang&repo=Linfeng-Tang)](https://github.com/Linfeng-Tang/Linfeng-Tang)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Linfeng-Tang&repo=Linfeng-Tang)](https://github.com/Linfeng-Tang?tab=repositories)

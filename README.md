@@ -32,5 +32,3 @@ Here are some ideas to get you started:
 7. Jiayi Ma, **Linfeng Tang**, Meilong Xu, Hao Zhang, and Guobao Xiao. "STDFusionNet: An Infrared and Visible Image Fusion Network Based on Salient Target Detection", IEEE Transactions on Instrumentation and Measurement, 70, pp. 5009513, 2021.【[Paper](https://ieeexplore.ieee.org/document/9416507)】 【[Code](https://github.com/Linfeng-Tang/STDFusionNet)】
 8. Meilong Xu, **Linfeng Tang**, Hao Zhang, and Jiayi Ma. "Infrared and visible image fusion via parallel scene and texture learning", Pattern Recognition, 132, pp. 108929, 2022.【[Paper](https://www.sciencedirect.com/science/article/pii/S0031320322004101)】 【[Code](https://github.com/Melon-Xu/PSTLFusion)】
 9. **唐霖峰**，张浩，徐涵，马佳义. 基于深度学习的图像融合方法综述. 中国图象图形学报，已接收.【[Paper](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?edit_id=20220728162841001&flag=2&file_no=202204300000002&journal_id=jig)】 【[Code](https://github.com/Linfeng-Tang/Image-Fusion)】
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linfeng-Tang)](https://github.com/Linfeng-Tang/)

@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   - 
 #### ✨News:
 [2024-11-28] 我们的论文(SeAFusion)《[Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network](https://www.sciencedirect.com/science/article/pii/S1566253521002542)》荣获《Information Fusion》**Best Paper Award** 2024！[[论文下载](https://www.sciencedirect.com/science/article/pii/S1566253521002542)] [[Code](https://github.com/Linfeng-Tang/SeAFusion)]
+
 [2024-07-16] 我们的论文《[DRMF: Degradation-Robust Multi-Modal Image Fusion via Composable Diffusion Prior]([https://www.sciencedirect.com/science/article/pii/S1566253523001860](https://openreview.net/forum?id=BwXrlBweab))》被《ACM MM 2024》正式接收！[[论文下载](https://openreview.net/pdf?id=BwXrlBweab)] [[Code](https://github.com/Linfeng-Tang/DRMF)]
 
 #### ⚡Publications:

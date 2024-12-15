@@ -25,7 +25,11 @@ Here are some ideas to get you started:
 #### ✨News:
 [2024-11-28] 我们的论文(SeAFusion)《[Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network](https://www.sciencedirect.com/science/article/pii/S1566253521002542)》荣获《Information Fusion》**Best Paper Award** 2024！[[论文下载](https://www.sciencedirect.com/science/article/pii/S1566253521002542)] [[Code](https://github.com/Linfeng-Tang/SeAFusion)]
 
+[2024-09] 我们的综述《[基于深度学习的图像融合方法综述](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)》入选**空天信息科技期刊高影响力论文**(全国共14篇)！[[论文下载](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)] [[Code](https://github.com/Linfeng-Tang/Image-Fusion)]
+
 [2024-07-16] 我们的论文《[DRMF: Degradation-Robust Multi-Modal Image Fusion via Composable Diffusion Prior]([https://www.sciencedirect.com/science/article/pii/S1566253523001860](https://openreview.net/forum?id=BwXrlBweab))》被《ACM MM 2024》正式接收！[[论文下载](https://openreview.net/pdf?id=BwXrlBweab)] [[Code](https://github.com/Linfeng-Tang/DRMF)]
+
+[2023-11] 我们的论文《[SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer](https://ieeexplore.ieee.org/document/9812535)》荣获 **Hsue-shen Tsien Paper Award 2023 (钱学森论文奖，IEEE/CAA JAS最佳论文奖)**！[[论文下载](https://ieeexplore.ieee.org/document/9970457)] [[Code](https://github.com/Linfeng-Tang/SuperFusion)]
 
 #### ⚡Publications:
 1. **Linfeng Tang**, Jiteng Yuan, and Jiayi Ma. "Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network", Information Fusion, 82, pp. 28-42, 2022. (**Information Fusion Best Paper Award 2024(最佳论文奖)** )【[Paper](https://www.sciencedirect.com/science/article/pii/S1566253521002542)】【[Code](https://github.com/Linfeng-Tang/SeAFusion)】
@@ -39,4 +43,4 @@ Here are some ideas to get you started:
 9. Jiayi Ma, **Linfeng Tang**, Meilong Xu, Hao Zhang, and Guobao Xiao. "STDFusionNet: An Infrared and Visible Image Fusion Network Based on Salient Target Detection", IEEE Transactions on Instrumentation and Measurement, 70, pp. 5009513, 2021.【[Paper](https://ieeexplore.ieee.org/document/9416507)】 【[Code](https://github.com/Linfeng-Tang/STDFusionNet)】
 10. Meilong Xu, **Linfeng Tang**, Hao Zhang, and Jiayi Ma. "Infrared and visible image fusion via parallel scene and texture learning", Pattern Recognition, 132, pp. 108929, 2022.【[Paper](https://www.sciencedirect.com/science/article/pii/S0031320322004101)】【[Code](https://github.com/Melon-Xu/PSTLFusion)】
 11. **Linfeng Tang**, Ziang Chen, Jun Huang, and Jiayi Ma. "CAMF: An Interpretable Infrared and Visible Image Fusion Network Based on Class Activation Mapping", IEEE Transactions on Multimedia, 26, pp. 4776-4791, 2024.【[Paper](https://ieeexplore.ieee.org/document/10288391)】【[Code](https://github.com/Linfeng-Tang/CAMF)】
-12. **唐霖峰**, 张浩, 徐涵, 马佳义. 基于深度学习的图像融合方法综述. 中国图象图形学报, 28(1), pp. 3-36, 2023.【[Paper](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)】【[Code](https://github.com/Linfeng-Tang/Image-Fusion)】
+12. **唐霖峰**, 张浩, 徐涵, 马佳义. 基于深度学习的图像融合方法综述. 中国图象图形学报, 28(1), pp. 3-36, 2023. (**空天信息科技期刊高影响力论文**, **中国图象图形学报优秀成果报告**)【[Paper](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)】【[Code](https://github.com/Linfeng-Tang/Image-Fusion)】

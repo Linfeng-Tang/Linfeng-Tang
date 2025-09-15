@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 [2024-07-16] 我们的论文《[DRMF: Degradation-Robust Multi-Modal Image Fusion via Composable Diffusion Prior]((https://openreview.net/forum?id=BwXrlBweab))》被《ACM MM 2024》正式接收！[[论文下载](https://openreview.net/pdf?id=BwXrlBweab)] [[Code](https://github.com/Linfeng-Tang/DRMF)]
 
-[2023-11] 我们的论文《[SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer](https://ieeexplore.ieee.org/document/9812535)》荣获 **Hsue-shen Tsien Paper Award 2023 (钱学森论文奖，IEEE/CAA JAS最佳论文奖)**！[[论文下载](https://ieeexplore.ieee.org/document/9970457)] [[Code](https://github.com/Linfeng-Tang/SuperFusion)]
+[2023-11] 我们的论文《[SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer](https://ieeexplore.ieee.org/document/9812535)》荣获 **Hsue-shen Tsien Paper Award 2023 (钱学森论文奖，IEEE/CAA JAS最佳论文奖)**！[[论文下载](https://ieeexplore.ieee.org/document/9970457)] [[Code](https://github.com/Linfeng-Tang/SwinFusion)]
 
 #### ⚡Publications:
 1. **Linfeng Tang**, Jiteng Yuan, and Jiayi Ma. "Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network", Information Fusion, 82, pp. 28-42, 2022. (**Information Fusion Best Paper Award 2024 (最佳论文奖)**, 入选ESI热点&高被引论文)【[Paper](https://www.sciencedirect.com/science/article/pii/S1566253521002542)】【[Code](https://github.com/Linfeng-Tang/SeAFusion)】

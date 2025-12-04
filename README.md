@@ -1,4 +1,4 @@
-### 😄  Hi there,  I'm [Linfeng Tang](https://scholar.google.com/citations?user=PyRqpAsAAAAJ&hl=en) (唐霖峰 in Chinese)!
+### 😄  Hi there,  I'm [Linfeng Tang](https://linfeng-tang.github.io/) (唐霖峰 in Chinese)!
 
 <!--
 **Linfeng-Tang/Linfeng-Tang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

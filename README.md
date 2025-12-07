@@ -31,7 +31,7 @@
 
 <table>
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       <h3>🔭 About Me</h3>
       <p>
         I am a PhD student at the <b>School of Electronic Information, Wuhan University</b>. My research primarily focuses on Computer Vision and Deep Learning.
@@ -45,8 +45,22 @@
         <li><b>Visual-Semantic Understanding</b></li>
       </ul>
     </td>
-    <td width="45%" valign="center">
+    <td width="40%" valign="center">
       <div align="center">
+        <a href="https://scholar.google.com/citations?user=PyRqpAsAAAAJ&hl=zh-CN">
+          <img src="https://img.shields.io/badge/Google_Scholar-Stats-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
+        </a>
+        <br>
+        <a href="https://scholar.google.com/citations?user=PyRqpAsAAAAJ&hl=zh-CN">
+          <img src="https://img.shields.io/badge/Citations-5493-blue?style=flat-square&logo=google-scholar&logoColor=white" />
+        </a>
+        <a href="https://scholar.google.com/citations?user=PyRqpAsAAAAJ&hl=zh-CN">
+          <img src="https://img.shields.io/badge/h--index-17-blue?style=flat-square" />
+        </a>
+        <a href="https://scholar.google.com/citations?user=PyRqpAsAAAAJ&hl=zh-CN">
+          <img src="https://img.shields.io/badge/i10--index-19-blue?style=flat-square" />
+        </a>
+        <br><br>
         <img src="https://streak-stats.demolab.com?user=Linfeng-Tang&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Linfeng's Streak" />
       </div>
     </td>
@@ -70,26 +84,6 @@
 
 ---
 
-### ⚡ Full List of Publications
-
-> For more details, please visit my [Personal Homepage](https://linfeng-tang.github.io/).
-
-1. **Linfeng Tang**, Chunyu Li, and Jiayi Ma. "Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion", **IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)**, vol. 48, no. 1, pp. 591-608, Jan. 2026.【[Paper](https://doi.org/10.1109/TPAMI.2025.3609323)】【[Code](https://github.com/Linfeng-Tang/Mask-DiFuser)】
-2. **Linfeng Tang**, Yeda Wang, Zhanchuan Cai, Junjun Jiang, and Jiayi Ma. "ControlFusion: A Controllable Image Fusion Network with Language-Vision Degradation Prompts", in **Advances in Neural Information Processing Systems (NeurIPS)**, Dec. 2025 (Oral, Acceptance rate: 0.36%).【[Paper](https://openreview.net/forum?id=aLhA7AYLLR)】【[Code](https://github.com/Linfeng-Tang/ControlFusion)】
-3. **Linfeng Tang**, Qinglong Yan, Xinyu Xiang, Leyuan Fang, and Jiayi Ma. "C2RF: Bridging Multi-modal Image Registration and Fusion via Commonality Mining and Contrastive Learning", **International Journal of Computer Vision (IJCV)**, vol. 133, pp. 5262-5280, 2025. 【[Paper](https://github.com/Linfeng-Tang/C2RF)】 【[Code](https://github.com/Linfeng-Tang/C2RF)】 
-4. **Linfeng Tang**, Jiteng Yuan, and Jiayi Ma. "Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network", **Information Fusion**, 82, pp. 28-42, 2022. (**Information Fusion Best Paper Award 2024 (最佳论文奖)**, ESI Hot & Highly Cited Paper)【[Paper](https://www.sciencedirect.com/science/article/pii/S1566253521002542)】【[Code](https://github.com/Linfeng-Tang/SeAFusion)】
-5. Jiayi Ma, **Linfeng Tang**, Fan Fan, Jun Huang, Xiaoguang Mei, and Yong Ma. "SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer", **IEEE/CAA Journal of Automatica Sinica (IEEE/CAA JAS)**, 9(7), pp. 1200-1217, 2022. (Hsue-shen Tsien Paper Award 2023 (钱学森论文奖，IEEE/CAA JAS最佳论文奖), ESI Hot & Highly Cited Paper)【[Paper](https://ieeexplore.ieee.org/document/9812535)】【[Code](https://github.com/Linfeng-Tang/SwinFusion)】
-6. **Linfeng Tang**, Yuxin Deng, Yong Ma, Jun Huang, and Jiayi Ma. "SuperFusion: A Versatile Image Registration and Fusion Network with Semantic Awareness", **IEEE/CAA Journal of Automatica Sinica (IEEE/CAA JAS)**, 9(12), pp. 2121-2137, 2022. (ESI Hot & Highly Cited Paper).【[Paper](https://ieeexplore.ieee.org/document/9970457)】【[Code](https://github.com/Linfeng-Tang/SuperFusion)】
-7. **Linfeng Tang**, Hao Zhang, Han Xu, and Jiayi Ma. "Rethinking the necessity of image fusion in high-level vision tasks: A practical infrared and visible image fusion network based on progressive semantic injection and scene fidelity", **Information Fusion**, 99, pp. 101870, 2023. (ESI Hot & Highly Cited Paper)【[Paper](https://www.sciencedirect.com/science/article/pii/S1566253523001860)】 【[Code](https://github.com/Linfeng-Tang/PSFusion)】 
-8. **Linfeng Tang**, Yuxin Deng, Xunpeng Yi, Qinglong Yan, Yixuan Yuan, and Jiayi Ma. "DRMF: Degradation-Robust Multi-Modal Image Fusion via Composable Diffusion Prior", in **Proceedings of the ACM International Conference on Multimedia (ACM MM)**, Nov. 2024.【[Paper](https://dl.acm.org/doi/10.1145/3664647.3681064)】【[Code](https://github.com/Linfeng-Tang/DRMF)】
-9. **Linfeng Tang**, Xinyu Xiang, Hao Zhang, Meiqi Gong, and Jiayi Ma. "DIVFusion: Darkness-free infrared and visible image fusion", **Information Fusion**, 91, pp. 477-493, 2023. (ESI Hot & Highly Cited Paper)【[Paper](https://www.sciencedirect.com/science/article/pii/S156625352200210X?via%3Dihub)】 【[Code](https://github.com/Linfeng-Tang/DIVFusion)】
-10. **Linfeng Tang**, Jiteng Yuan, Hao Zhang, Xingyu Jiang, and Jiayi Ma. "PIAFusion: A progressive infrared and visible image fusion network based on illumination aware", **Information Fusion**, 83-84, pp. 79-92, 2022. (ESI Hot & Highly Cited Paper)【[Paper](https://www.sciencedirect.com/science/article/abs/pii/S156625352200032X)】【[Code](https://github.com/Linfeng-Tang/PIAFusion)】
-11. **Linfeng Tang**, Jiayi Ma, Hao Zhang, and Xiaojie Guo. "DRLIE: Flexible Low-light Image Enhancement via Disentangled Representations", **IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)**, 35(2), pp. 2694-2707, 2024.【[Paper](https://ieeexplore.ieee.org/document/9833451)】【[Code](https://github.com/Linfeng-Tang/DRLIE)】
-12. Jiayi Ma, **Linfeng Tang**, Meilong Xu, Hao Zhang, and Guobao Xiao. "STDFusionNet: An Infrared and Visible Image Fusion Network Based on Salient Target Detection", **IEEE Transactions on Instrumentation and Measurement (IEEE TIM)**, 70, pp. 5009513, 2021.(ESI Highly Cited Paper)【[Paper](https://ieeexplore.ieee.org/document/9416507)】 【[Code](https://github.com/Linfeng-Tang/STDFusionNet)】
-13. Meilong Xu, **Linfeng Tang**, Hao Zhang, and Jiayi Ma. "Infrared and visible image fusion via parallel scene and texture learning", **Pattern Recognition (PR)**, 132, pp. 108929, 2022.【[Paper](https://www.sciencedirect.com/science/article/pii/S0031320322004101)】【[Code](https://github.com/Melon-Xu/PSTLFusion)】
-14. **Linfeng Tang**, Ziang Chen, Jun Huang, and Jiayi Ma. "CAMF: An Interpretable Infrared and Visible Image Fusion Network Based on Class Activation Mapping", **IEEE Transactions on Multimedia (IEEE TMM)**, 26, pp. 4776-4791, 2024.【[Paper](https://ieeexplore.ieee.org/document/10288391)】【[Code](https://github.com/Linfeng-Tang/CAMF)】
-15. **唐霖峰**, 张浩, 徐涵, 马佳义. 基于深度学习的图像融合方法综述. **中国图象图形学报 (JIG)**, 28(1), pp. 3-36, 2023. (**空天信息科技期刊高影响力论文**, **中国图象图形学报2020-2024优秀论文**, **中国图象图形学报2024年度优秀论文**, **中国图象图形学报优秀成果报告**)【[Paper](https://txtx.publish.founderss.cn/zh/article/doi/10.11834/jig.220422/)】【[Code](https://github.com/Linfeng-Tang/Image-Fusion)】
-
 ### 📝 Selected Publications
 
 > For a full list, please visit my [Personal Homepage](https://linfeng-tang.github.io/).
@@ -112,7 +106,7 @@
 
 * **ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts** <br>
     ***Linfeng Tang**, Yeda Wang, Zhanchuan Cai, Junjun Jiang, Jiayi Ma* <br>
-    **Advances in Neural Information Processing Systems (NeurIPS)**, Dec. 2025 (Oral, 前0.3%). <br>
+    **Advances in Neural Information Processing Systems (NeurIPS)**, Dec. 2025 (Oral). <br>
     [![Paper](https://img.shields.io/badge/Paper-OpenReview-b31b1b)](https://openreview.net/forum?id=aLhA7AYLLR) [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Linfeng-Tang/ControlFusion)
 
 * **C2RF: Bridging Multi-modal Image Registration and Fusion via Commonality Mining and Contrastive Learning** <br>
@@ -134,8 +128,8 @@
 
 * 🏆 **基于深度学习的图像融合方法综述** <br>
     ***唐霖峰**, 张浩, 徐涵, 马佳义* <br>
-    **中国图象图形学报 (JIG)**, 2023. (**空天信息科技期刊高影响力论文**, **中国图象图形学报2020-2024优秀论文**, **中国图象图形学报2024年度优秀论文**) <br>
-    [![Paper](https://img.shields.io/badge/Paper-JIG-red)](https://txtx.publish.founderss.cn/zh/article/doi/10.11834/jig.220422/) [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Linfeng-Tang/Image-Fusion)
+    **中国图象图形学报 (CJIG)**, 2023. (**空天信息科技期刊高影响力论文**, **中国图象图形学报优秀论文**) <br>
+    [![Paper](https://img.shields.io/badge/Paper-CJIG-red)](https://txtx.publish.founderss.cn/zh/article/doi/10.11834/jig.220422/) [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Linfeng-Tang/Image-Fusion)
 
 * 🔥 **SuperFusion: A Versatile Image Registration and Fusion Network with Semantic Awareness** <br>
     ***Linfeng Tang**, Yuxin Deng, Yong Ma, Jun Huang, Jiayi Ma* <br>
@@ -162,13 +156,26 @@
     **IEEE Transactions on Instrumentation and Measurement (IEEE TIM)**, 2021. (ESI Highly Cited Paper) <br>
     [![Paper](https://img.shields.io/badge/Paper-IEEE-blue)](https://ieeexplore.ieee.org/document/9416507) [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Linfeng-Tang/STDFusionNet)
 
+<br>
 
 <details>
-<summary><b>View More Publications</b></summary>
+<summary><b>⚡ Full List of Publications (1-15)</b></summary>
 
-* **DRMF: Degradation-Robust Multi-Modal Image Fusion via Composable Diffusion Prior** (**ACM MM 2024**) [[Code](https://github.com/Linfeng-Tang/DRMF)]
-* **CAMF: An Interpretable Infrared and Visible Image Fusion Network Based on Class Activation Mapping** (**IEEE TMM 2024**) [[Code](https://github.com/Linfeng-Tang/CAMF)]
-* **DRLIE: Flexible Low-light Image Enhancement via Disentangled Representations** (**IEEE TNNLS 2024**) [[Code](https://github.com/Linfeng-Tang/DRLIE)]
+1. **Linfeng Tang**, Chunyu Li, and Jiayi Ma. "Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion", **IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)**, vol. 48, no. 1, pp. 591-608, Jan. 2026.【[Paper](https://doi.org/10.1109/TPAMI.2025.3609323)】【[Code](https://github.com/Linfeng-Tang/Mask-DiFuser)】
+2. **Linfeng Tang**, Yeda Wang, Zhanchuan Cai, Junjun Jiang, and Jiayi Ma. "ControlFusion: A Controllable Image Fusion Network with Language-Vision Degradation Prompts", in **Advances in Neural Information Processing Systems (NeurIPS)**, Dec. 2025 (Oral, Acceptance rate: 0.36%).【[Paper](https://openreview.net/forum?id=aLhA7AYLLR)】【[Code](https://github.com/Linfeng-Tang/ControlFusion)】
+3. **Linfeng Tang**, Qinglong Yan, Xinyu Xiang, Leyuan Fang, and Jiayi Ma. "C2RF: Bridging Multi-modal Image Registration and Fusion via Commonality Mining and Contrastive Learning", **International Journal of Computer Vision (IJCV)**, vol. 133, pp. 5262-5280, 2025. 【[Paper](https://github.com/Linfeng-Tang/C2RF)】 【[Code](https://github.com/Linfeng-Tang/C2RF)】 
+4. **Linfeng Tang**, Jiteng Yuan, and Jiayi Ma. "Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network", **Information Fusion**, 82, pp. 28-42, 2022. (**Information Fusion Best Paper Award 2024 (最佳论文奖)**, ESI Hot & Highly Cited Paper)【[Paper](https://www.sciencedirect.com/science/article/pii/S1566253521002542)】【[Code](https://github.com/Linfeng-Tang/SeAFusion)】
+5. Jiayi Ma, **Linfeng Tang**, Fan Fan, Jun Huang, Xiaoguang Mei, and Yong Ma. "SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer", **IEEE/CAA Journal of Automatica Sinica (IEEE/CAA JAS)**, 9(7), pp. 1200-1217, 2022. (Hsue-shen Tsien Paper Award 2023 (钱学森论文奖，IEEE/CAA JAS最佳论文奖), ESI Hot & Highly Cited Paper)【[Paper](https://ieeexplore.ieee.org/document/9812535)】【[Code](https://github.com/Linfeng-Tang/SwinFusion)】
+6. **Linfeng Tang**, Yuxin Deng, Yong Ma, Jun Huang, and Jiayi Ma. "SuperFusion: A Versatile Image Registration and Fusion Network with Semantic Awareness", **IEEE/CAA Journal of Automatica Sinica (IEEE/CAA JAS)**, 9(12), pp. 2121-2137, 2022. (ESI Hot & Highly Cited Paper).【[Paper](https://ieeexplore.ieee.org/document/9970457)】【[Code](https://github.com/Linfeng-Tang/SuperFusion)】
+7. **Linfeng Tang**, Hao Zhang, Han Xu, and Jiayi Ma. "Rethinking the necessity of image fusion in high-level vision tasks: A practical infrared and visible image fusion network based on progressive semantic injection and scene fidelity", **Information Fusion**, 99, pp. 101870, 2023. (ESI Hot & Highly Cited Paper)【[Paper](https://www.sciencedirect.com/science/article/pii/S1566253523001860)】 【[Code](https://github.com/Linfeng-Tang/PSFusion)】 
+8. **Linfeng Tang**, Yuxin Deng, Xunpeng Yi, Qinglong Yan, Yixuan Yuan, and Jiayi Ma. "DRMF: Degradation-Robust Multi-Modal Image Fusion via Composable Diffusion Prior", in **Proceedings of the ACM International Conference on Multimedia (ACM MM)**, Nov. 2024.【[Paper](https://dl.acm.org/doi/10.1145/3664647.3681064)】【[Code](https://github.com/Linfeng-Tang/DRMF)】
+9. **Linfeng Tang**, Xinyu Xiang, Hao Zhang, Meiqi Gong, and Jiayi Ma. "DIVFusion: Darkness-free infrared and visible image fusion", **Information Fusion**, 91, pp. 477-493, 2023. (ESI Hot & Highly Cited Paper)【[Paper](https://www.sciencedirect.com/science/article/pii/S156625352200210X?via%3Dihub)】 【[Code](https://github.com/Linfeng-Tang/DIVFusion)】
+10. **Linfeng Tang**, Jiteng Yuan, Hao Zhang, Xingyu Jiang, and Jiayi Ma. "PIAFusion: A progressive infrared and visible image fusion network based on illumination aware", **Information Fusion**, 83-84, pp. 79-92, 2022. (ESI Hot & Highly Cited Paper)【[Paper](https://www.sciencedirect.com/science/article/abs/pii/S156625352200032X)】【[Code](https://github.com/Linfeng-Tang/PIAFusion)】
+11. **Linfeng Tang**, Jiayi Ma, Hao Zhang, and Xiaojie Guo. "DRLIE: Flexible Low-light Image Enhancement via Disentangled Representations", **IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)**, 35(2), pp. 2694-2707, 2024.【[Paper](https://ieeexplore.ieee.org/document/9833451)】【[Code](https://github.com/Linfeng-Tang/DRLIE)】
+12. Jiayi Ma, **Linfeng Tang**, Meilong Xu, Hao Zhang, and Guobao Xiao. "STDFusionNet: An Infrared and Visible Image Fusion Network Based on Salient Target Detection", **IEEE Transactions on Instrumentation and Measurement (IEEE TIM)**, 70, pp. 5009513, 2021.(ESI Highly Cited Paper)【[Paper](https://ieeexplore.ieee.org/document/9416507)】 【[Code](https://github.com/Linfeng-Tang/STDFusionNet)】
+13. Meilong Xu, **Linfeng Tang**, Hao Zhang, and Jiayi Ma. "Infrared and visible image fusion via parallel scene and texture learning", **Pattern Recognition (PR)**, 132, pp. 108929, 2022.【[Paper](https://www.sciencedirect.com/science/article/pii/S0031320322004101)】【[Code](https://github.com/Melon-Xu/PSTLFusion)】
+14. **Linfeng Tang**, Ziang Chen, Jun Huang, and Jiayi Ma. "CAMF: An Interpretable Infrared and Visible Image Fusion Network Based on Class Activation Mapping", **IEEE Transactions on Multimedia (IEEE TMM)**, 26, pp. 4776-4791, 2024.【[Paper](https://ieeexplore.ieee.org/document/10288391)】【[Code](https://github.com/Linfeng-Tang/CAMF)】
+15. **唐霖峰**, 张浩, 徐涵, 马佳义. 基于深度学习的图像融合方法综述. **中国图象图形学报 (CJIG)**, 28(1), pp. 3-36, 2023. (**空天信息科技期刊高影响力论文**, **中国图象图形学报2020-2024优秀论文**, **中国图象图形学报2024年度优秀论文**, **中国图象图形学报优秀成果报告**)【[Paper](https://txtx.publish.founderss.cn/zh/article/doi/10.11834/jig.220422/)】【[Code](https://github.com/Linfeng-Tang/Image-Fusion)】
 
 </details>
 
@@ -210,9 +217,9 @@
 }
 
 @article{Tang2024C2RF,
-  title={C2RF: Bridging Multi-modal Image Registration and Fusion via Commonality Mining and Contrastive Learning},
+  title={C2RF: Bridging Multi-modal Image Registration and Fusion via Commonality Mining and Contrastive Learning}, 
   author={Tang, Linfeng and Yan, Qinglong and Xiang, Xinyu and Fang, Leyuan and Ma, Jiayi},
-  journal={International Journal of Computer Vision},
+  journal={International Journal of Computer Vision}, 
   pages={5262--5280},
   volume={133},
   year={2025},

@@ -77,7 +77,12 @@
 
 > For a full list, please visit my [Personal Homepage](https://linfeng-tang.github.io/).
 
-#### 2025 & Preprints
+#### 2026, 2025 & Preprints
+* **Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion** <br>
+    ***Linfeng Tang**, Chunyu Li, Jiayi Ma* <br>
+    **IEEE TPAMI**, vol. 48, no. 1, pp. 591-608, Jan. 2026. <br>
+    [![Paper](https://img.shields.io/badge/Paper-IEEE_Xplore-blue)](https://doi.org/10.1109/TPAMI.2025.3609323) [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Linfeng-Tang/Mask-DiFuser)
+
 * **VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion and Restoration** <br>
     ***Linfeng Tang**, Yeda Wang, Meiqi Gong, Zizhuo Li, Yuxin Deng, Xunpeng Yi, Chunyu Li, Han Xu, Hao Zhang, Jiayi Ma* <br>
     **arXiv 2025**. <br>
@@ -87,11 +92,6 @@
     ***Linfeng Tang**, Chunyu Li, Guoqing Wang, Yixuan Yuan, Jiayi Ma* <br>
     **arXiv 2025**. <br>
     [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b)](https://arxiv.org/abs/2503.23355)
-
-* **Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion** <br>
-    ***Linfeng Tang**, Chunyu Li, Jiayi Ma* <br>
-    **IEEE TPAMI 2025**. <br>
-    [![Paper](https://img.shields.io/badge/Paper-IEEE_Xplore-blue)](https://doi.org/10.1109/TPAMI.2025.3609323) [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Linfeng-Tang/Mask-DiFuser)
 
 * **ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts** <br>
     ***Linfeng Tang**, Yeda Wang, Zhanchuan Cai, Junjun Jiang, Jiayi Ma* <br>
@@ -175,11 +175,11 @@
   year={2025}
 }
 
-@article{Tang2025Mask-DiFuser,
+@article{Tang2026Mask-DiFuser,
   author={Tang, Linfeng and Li, Chunyu and Ma, Jiayi},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   title={Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion}, 
-  year={2025},
+  year={2026},
   volume={48},
   number={1},
   pages={591--608},

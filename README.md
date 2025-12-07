@@ -12,9 +12,6 @@
   </a>
 
   <p>
-    <a href="https://raw.githubusercontent.com/Linfeng-Tang/Linfeng-Tang.github.io/gh-pages/assets/img/wechat_qr.png" target="_blank">
-      <img src="https://img.shields.io/badge/WeChat-Click_To_Add-07C160?style=flat&logo=wechat&logoColor=white" alt="WeChat">
-    </a>
     <a href="https://scholar.google.com/citations?user=PyRqpAsAAAAJ&hl=zh-CN">
       <img src="https://img.shields.io/badge/Google_Scholar-PyRqpAsAAAAJ-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar">
     </a>
@@ -23,6 +20,9 @@
     </a>
     <a href="https://www.researchgate.net/profile/Tang-Linfeng-2">
       <img src="https://img.shields.io/badge/ResearchGate-Linfeng_Tang-00CCBB?style=flat&logo=ResearchGate&logoColor=white" alt="ResearchGate">
+    </a>
+    <a href="https://linfeng-tang.github.io/wechat.html" target="_blank">
+      <img src="https://img.shields.io/badge/WeChat-Click_To_Add-07C160?style=flat&logo=wechat&logoColor=white" alt="WeChat">
     </a>
   </p>
 </div>

@@ -72,7 +72,7 @@
 ### 🔥 Latest News
 
 - **[2025-12-26]** 🏆 我们的综述《[基于深度学习的图像融合方法综述](https://www.cjig.cn/thesisDetails#10.11834/jig.220422&lang=zh)》荣获 **中国图象图形学报 2020-2024 优秀论文**！
-- **[2025-9-18]** 🎉 我们的论文 **"ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts"** 被 **NeurIPS 2025** 正式接收! [[论文下载](https://arxiv.org/pdf/2503.23356?)] [[Code](https://github.com/Linfeng-Tang/ControlFusion)]
+- **[2025-9-18]** 🎉 我们的论文 **"ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts"** 被 **NeurIPS 2025** 正式接收! [[论文下载](https://openreview.net/forum?id=aLhA7AYLLR)] [[Code](https://github.com/Linfeng-Tang/ControlFusion)]
 - **[2025-9-10]** 🎉 我们的论文 **"Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion"** 被 **IEEE TPAMI** 正式接收! [[论文下载](https://ieeexplore.ieee.org/document/11162636)] [[Code](https://github.com/Linfeng-Tang/Mask-DiFuser)]
 - **[2025-3-15]** 🎉 我们的论文《[C2RF: Bridging Multi-modal Image Registration and Fusion via Commonality Mining and Contrastive Learning](https://github.com/Linfeng-Tang/C2RF)》被 **IJCV** 正式接收！[[论文下载](https://link.springer.com/article/10.1007/s11263-025-02427-1)] [[Code](https://github.com/Linfeng-Tang/C2RF)]
 - **[2025-02-11]** 📂 我们发布了一个用于红外和可见光视频融合的大规模数据集：[M3SVD：Multi-Modal Multi-Scene Video Dataset](https://github.com/Linfeng-Tang/M3SVD).
@@ -80,7 +80,7 @@
 - **[2024-11-28]** 🏆 我们的论文(SeAFusion)《[Image fusion in the loop of high-level vision tasks](https://www.sciencedirect.com/science/article/pii/S1566253521002542)》荣获 **Information Fusion Best Paper Award 2024** (最佳论文奖)！[[Code](https://github.com/Linfeng-Tang/SeAFusion)]
 - **[2024-09]** 🌟 综述《[基于深度学习的图像融合方法综述](https://txtx.publish.founderss.cn/zh/article/doi/10.11834/jig.220422/)》入选 **空天信息科技期刊高影响力论文** (全国共14篇)！
 - **[2024-07-16]** 🎉 我们的论文《[DRMF: Degradation-Robust Multi-Modal Image Fusion](https://openreview.net/forum?id=BwXrlBweab)》被 **ACM MM 2024** 正式接收！[[Code](https://github.com/Linfeng-Tang/DRMF)]
-- **[2023-11]** 🏆 我们的论文《[SwinFusion](https://ieeexplore.ieee.org/document/9812535)》荣获 **Hsue-shen Tsien Paper Award 2023 (钱学森论文奖)**！[[Code](https://github.com/Linfeng-Tang/SwinFusion)]
+- **[2023-11]** 🏆 我们的论文《[SwinFusion](https://ieeexplore.ieee.org/document/9812535)》荣获 **Hsue-shen Tsien Paper Award 2023 (钱学森论文奖)**！[[Code](https://github.com/Linfeng-Tang/SwinFusion)]  
 
 ---
 
@@ -96,7 +96,7 @@
 
 * ✨ **ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts** <br>
     ***Linfeng Tang**, Yeda Wang, Zhanchuan Cai, Junjun Jiang, Jiayi Ma* <br>
-    **Advances in Neural Information Processing Systems (NeurIPS)**, Dec. 2025 (Oral). <br>
+    **Advances in Neural Information Processing Systems (NeurIPS)**, Dec. 2025 (**Oral, 前0.36%**). <br>
     [![Paper](https://img.shields.io/badge/Paper-OpenReview-b31b1b)](https://openreview.net/forum?id=aLhA7AYLLR) [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Linfeng-Tang/ControlFusion)
 
 * ✨ **C2RF: Bridging Multi-modal Image Registration and Fusion via Commonality Mining and Contrastive Learning** <br>

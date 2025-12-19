@@ -71,7 +71,7 @@
 
 ### 🔥 Latest News
 
-- **[2025-12-26]** 🏆 我们的综述《[基于深度学习的图像融合方法综述](https://www.cjig.cn/thesisDetails#10.11834/jig.220422&lang=zh)》荣获 **中国图象图形学报 2020-2024 优秀论文**！
+- **[2025-12-26]** 🏆 我们的综述《[基于深度学习的图像融合方法综述](https://www.cjig.cn/thesisDetails#10.11834/jig.220422&lang=zh)》荣获 **中国图象图形学报 2020-2024 优秀论文**！[[News](https://mp.weixin.qq.com/s/vYYswuwcV4DyNRKZpbY5qA?scene=1)][[Code](https://github.com/Linfeng-Tang/Image-Fusion)]
 - **[2025-9-18]** 🎉 我们的论文 **"ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts"** 被 **NeurIPS 2025** 正式接收! [[论文下载](https://openreview.net/forum?id=aLhA7AYLLR)] [[Code](https://github.com/Linfeng-Tang/ControlFusion)]
 - **[2025-9-10]** 🎉 我们的论文 **"Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion"** 被 **IEEE TPAMI** 正式接收! [[论文下载](https://ieeexplore.ieee.org/document/11162636)] [[Code](https://github.com/Linfeng-Tang/Mask-DiFuser)]
 - **[2025-3-15]** 🎉 我们的论文《[C2RF: Bridging Multi-modal Image Registration and Fusion via Commonality Mining and Contrastive Learning](https://github.com/Linfeng-Tang/C2RF)》被 **IJCV** 正式接收！[[论文下载](https://link.springer.com/article/10.1007/s11263-025-02427-1)] [[Code](https://github.com/Linfeng-Tang/C2RF)]

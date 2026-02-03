@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Hi there, I'm Linfeng Tang (唐霖峰) 👋</h1>
   
-  <h3>PhD Student @ <a href="https://www.whu.edu.cn/" target="_blank">Wuhan University</a></h3>
+  <h3>Postdoctoral Researcher @ <a href="https://robotics.whu.edu.cn/" target="_blank">School of Robotics, Wuhan University</a></h3>
+
   
   <p>
     <b>Research Interests:</b> Multi-modal Image Fusion, Image Enhancement, Visual-Semantic Understanding

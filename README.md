@@ -75,7 +75,7 @@
 ---
 
 ### 🔥 Latest News
-
+- **[2025-02-20]** 🎉 我们的论文 **"VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion"** 被 **CVPR 2026** 正式接收! [[论文下载](https://arxiv.org/abs/2503.23359)] [[Code](https://github.com/Linfeng-Tang/VideoFusion)]
 - **[2025-12-26]** 🏆 我们的综述《[基于深度学习的图像融合方法综述](https://www.cjig.cn/thesisDetails#10.11834/jig.220422&lang=zh)》荣获 **中国图象图形学报 2020-2024 优秀论文**！[[News](https://mp.weixin.qq.com/s/vYYswuwcV4DyNRKZpbY5qA?scene=1)][[Code](https://github.com/Linfeng-Tang/Image-Fusion)]
 - **[2025-9-18]** 🎉 我们的论文 **"ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts"** 被 **NeurIPS 2025** 正式接收! [[论文下载](https://openreview.net/forum?id=aLhA7AYLLR)] [[Code](https://github.com/Linfeng-Tang/ControlFusion)]
 - **[2025-9-10]** 🎉 我们的论文 **"Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion"** 被 **IEEE TPAMI** 正式接收! [[论文下载](https://ieeexplore.ieee.org/document/11162636)] [[Code](https://github.com/Linfeng-Tang/Mask-DiFuser)]
@@ -188,11 +188,11 @@
 <summary><b>📚 BibTeX (Click to copy)</b></summary>
 
 ```bibtex
-@article{Tang2025VideoFusion,
+@inproceedings{Tang2026VideoFusion,
   title={VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion and Restoration},
   author={Tang, Linfeng and Wang, Yeda and Gong, Meiqi and Li, Zizhuo and Deng, Yuxin and Yi, Xunpeng and Li, Chunyu and Xu, Han and Zhang, Hao and Ma, Jiayi},
-  journal={arXiv preprint arXiv:2503.23359},
-  year={2025}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2026}
 }
 
 @article{Tang2025DSPFusion,

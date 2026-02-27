@@ -167,7 +167,7 @@
 <br>
 
 <details>
-<summary><b>⚡ Full List of Publications (1-15)</b></summary>
+<summary><b>⚡ Full List of Publications (1-16)</b></summary>
 
 1. **Linfeng Tang**, Chunyu Li, and Jiayi Ma. "Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion", **IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)**, vol. 48, no. 1, pp. 591-608, Jan. 2026.【[Paper](https://doi.org/10.1109/TPAMI.2025.3609323)】【[Code](https://github.com/Linfeng-Tang/Mask-DiFuser)】
 2. **Linfeng Tang**, Yeda Wang, Zhanchuan Cai, Junjun Jiang, and Jiayi Ma. "ControlFusion: A Controllable Image Fusion Network with Language-Vision Degradation Prompts", in **Advances in Neural Information Processing Systems (NeurIPS)**, Dec. 2025 (Oral, Acceptance rate: 0.36%).【[Paper](https://openreview.net/forum?id=aLhA7AYLLR)】【[Code](https://github.com/Linfeng-Tang/ControlFusion)】

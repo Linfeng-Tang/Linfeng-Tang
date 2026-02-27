@@ -39,7 +39,7 @@
     <td width="60%" valign="top">
       <h3>🔭 About Me</h3>
       <p>
-        I am a PhD student at the <b>School of Electronic Information, Wuhan University</b>. My research primarily focuses on Computer Vision and Deep Learning.
+       I am currently a Postdoctoral Researcher at the <b>School of Robotics, Wuhan University</b>. My research interests include <b>Multi-modal Image Fusion, Image Enhancement, and Visual-Semantic Understanding</b>.
       </p>
       <p>
         <b>Main Research Topics:</b>
@@ -94,6 +94,11 @@
 > For a full list, please visit my [Personal Homepage](https://linfeng-tang.github.io/).
 
 #### 2026 & 2025
+* ✨ **VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion and Restoration** <br>
+    ***Linfeng Tang**, Yeda Wang, Meiqi Gong, Zizhuo Li, Yuxin Deng, Xunpeng Yi, Chunyu Li, Han Xu, Hao Zhang, Jiayi Ma* <br>
+    **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2026. <br>
+    [![Paper](https://img.shields.io/badge/Paper-CVPR_2026-blue)](https://arxiv.org/abs/2503.23359)  [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Linfeng-Tang/VideoFusion)
+
 * ✨ **Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion** <br>
     ***Linfeng Tang**, Chunyu Li, Jiayi Ma* <br>
     **IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)**, vol. 48, no. 1, pp. 591-608, Jan. 2026. <br>

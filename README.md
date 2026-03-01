@@ -94,7 +94,7 @@
 > For a full list, please visit my [Personal Homepage](https://linfeng-tang.github.io/).
 
 #### 2026 & 2025
-* ✨ **VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion and Restoration** <br>
+* ✨ **VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion** <br>
     ***Linfeng Tang**, Yeda Wang, Meiqi Gong, Zizhuo Li, Yuxin Deng, Xunpeng Yi, Chunyu Li, Han Xu, Hao Zhang, Jiayi Ma* <br>
     **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2026. <br>
     [![Paper](https://img.shields.io/badge/Paper-CVPR_2026-blue)](https://arxiv.org/abs/2503.23359)  [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Linfeng-Tang/VideoFusion)
@@ -171,7 +171,7 @@
 
 1. **Linfeng Tang**, Chunyu Li, and Jiayi Ma. "Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion", **IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)**, vol. 48, no. 1, pp. 591-608, Jan. 2026.【[Paper](https://doi.org/10.1109/TPAMI.2025.3609323)】【[Code](https://github.com/Linfeng-Tang/Mask-DiFuser)】
 2. **Linfeng Tang**, Yeda Wang, Zhanchuan Cai, Junjun Jiang, and Jiayi Ma. "ControlFusion: A Controllable Image Fusion Network with Language-Vision Degradation Prompts", in **Advances in Neural Information Processing Systems (NeurIPS)**, Dec. 2025 (Oral, Acceptance rate: 0.36%).【[Paper](https://openreview.net/forum?id=aLhA7AYLLR)】【[Code](https://github.com/Linfeng-Tang/ControlFusion)】
-3. Linfeng Tang, Yeda Wang, Meiqi Gong, Zizhuo Li, Yuxin Deng, Xunpeng Yi, Chunyu Li, Han Xu, Hao Zhang, and Jiayi Ma. “VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion and Restoration,” in Proceedings of the **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2026. 【[Paper](https://arxiv.org/abs/2503.23359)】【[Code](https://github.com/Linfeng-Tang/VideoFusion)】
+3. Linfeng Tang, Yeda Wang, Meiqi Gong, Zizhuo Li, Yuxin Deng, Xunpeng Yi, Chunyu Li, Han Xu, Hao Zhang, and Jiayi Ma. “VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion,” in Proceedings of the **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2026. 【[Paper](https://arxiv.org/abs/2503.23359)】【[Code](https://github.com/Linfeng-Tang/VideoFusion)】
 4. **Linfeng Tang**, Qinglong Yan, Xinyu Xiang, Leyuan Fang, and Jiayi Ma. "C2RF: Bridging Multi-modal Image Registration and Fusion via Commonality Mining and Contrastive Learning", **International Journal of Computer Vision (IJCV)**, vol. 133, pp. 5262-5280, 2025. 【[Paper](https://github.com/Linfeng-Tang/C2RF)】 【[Code](https://github.com/Linfeng-Tang/C2RF)】 
 5. **Linfeng Tang**, Jiteng Yuan, and Jiayi Ma. "Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network", **Information Fusion**, 82, pp. 28-42, 2022. (**Information Fusion Best Paper Award 2024 (最佳论文奖)**, ESI Hot & Highly Cited Paper)【[Paper](https://www.sciencedirect.com/science/article/pii/S1566253521002542)】【[Code](https://github.com/Linfeng-Tang/SeAFusion)】
 6. Jiayi Ma, **Linfeng Tang**, Fan Fan, Jun Huang, Xiaoguang Mei, and Yong Ma. "SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer", **IEEE/CAA Journal of Automatica Sinica (IEEE/CAA JAS)**, 9(7), pp. 1200-1217, 2022. (Hsue-shen Tsien Paper Award 2023 (钱学森论文奖，IEEE/CAA JAS最佳论文奖), ESI Hot & Highly Cited Paper)【[Paper](https://ieeexplore.ieee.org/document/9812535)】【[Code](https://github.com/Linfeng-Tang/SwinFusion)】
@@ -195,7 +195,7 @@
 
 ```bibtex
 @inproceedings{Tang2026VideoFusion,
-  title={VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion and Restoration},
+  title={VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion},
   author={Tang, Linfeng and Wang, Yeda and Gong, Meiqi and Li, Zizhuo and Deng, Yuxin and Yi, Xunpeng and Li, Chunyu and Xu, Han and Zhang, Hao and Ma, Jiayi},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2026}

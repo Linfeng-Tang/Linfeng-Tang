@@ -57,13 +57,13 @@
         </a>
         <br>
         <a href="https://scholar.google.com/citations?user=PyRqpAsAAAAJ&hl=zh-CN">
-          <img src="https://img.shields.io/badge/Citations-5493-blue?style=flat-square&logo=google-scholar&logoColor=white" />
+          <img src="https://img.shields.io/badge/Citations-6475-blue?style=flat-square&logo=google-scholar&logoColor=white" />
         </a>
         <a href="https://scholar.google.com/citations?user=PyRqpAsAAAAJ&hl=zh-CN">
-          <img src="https://img.shields.io/badge/h--index-17-blue?style=flat-square" />
+          <img src="https://img.shields.io/badge/h--index-20-blue?style=flat-square" />
         </a>
         <a href="https://scholar.google.com/citations?user=PyRqpAsAAAAJ&hl=zh-CN">
-          <img src="https://img.shields.io/badge/i10--index-19-blue?style=flat-square" />
+          <img src="https://img.shields.io/badge/i10--index-22-blue?style=flat-square" />
         </a>
         <br><br>
         <img src="https://streak-stats.demolab.com?user=Linfeng-Tang&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Linfeng's Streak" />

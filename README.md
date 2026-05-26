@@ -224,10 +224,12 @@ in **Advances in Neural Information Processing Systems (NeurIPS)**, vol. 38, pp.
 }
 
 @inproceedings{Tang2025ControlFusion,
-  title={ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts},
-  author={Tang, Linfeng and Wang, Yeda and Cai, Zhanchuan and Jiang, Junjun and Ma, Jiayi},
-  booktitle={Advances in Neural Information Processing Systems},
-  year={2025}
+  author    = {Tang, Linfeng and Wang, Yeda and Cai, Zhanchuan and Jiang, Junjun and Ma, Jiayi},
+  title     = {ControlFusion: A Controllable Image Fusion Network with Language-Vision Degradation Prompts},
+  booktitle = {Advances in Neural Information Processing Systems},
+  volume    = {38},
+  pages     = {118304--118327},
+  year      = {2025},
 }
 
 @article{Tang2024C2RF,

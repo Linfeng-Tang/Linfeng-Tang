@@ -175,7 +175,11 @@
 <details>
 <summary><b>⚡ Full List of Publications (1-17)</b></summary>
 
-1. **Linfeng Tang**, Chunyu Li, Yeda Wang, Guoqing Wang, Yixuan Yuan, and Jiayi Ma. "DSPFusion: Image Fusion via Degradation and Semantic Dual-Prior Guidance", **IEEE Transactions on Image Processing (IEEE TIP)**, accepted June 2, 2026.【[Paper](https://doi.org/10.1109/TIP.2026.3700938)】【[arXiv](https://arxiv.org/abs/2503.23355)】【[Code](https://github.com/Linfeng-Tang/DSPFusion)】
+1. * ✨ **DSPFusion: Image Fusion via Degradation and Semantic Dual-Prior Guidance** <br>
+    ***Linfeng Tang**, Chunyu Li, Yeda Wang, Guoqing Wang, Yixuan Yuan, Jiayi Ma* <br>
+    **IEEE Transactions on Image Processing (IEEE TIP)**, vol. 35, pp. 6331–6345, 2026. <br>
+    [![Paper](https://img.shields.io/badge/Paper-IEEE_Xplore-blue)](https://doi.org/10.1109/TIP.2026.3700938) [![arXiv](https://img.shields.io/badge/Paper-arXiv-b31b1b)](https://arxiv.org/abs/2503.23355) [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Linfeng-Tang/DSPFusion) ![Citations](https://img.shields.io/badge/Cited_by-2-blueviolet)
+  
 2. **Linfeng Tang**, Chunyu Li, and Jiayi Ma. "Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion", **IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)**, vol. 48, no. 1, pp. 591-608, Jan. 2026.【[Paper](https://doi.org/10.1109/TPAMI.2025.3609323)】【[Code](https://github.com/Linfeng-Tang/Mask-DiFuser)】
 3. **Linfeng Tang**, Yeda Wang, Zhanchuan Cai, Junjun Jiang, and Jiayi Ma.
 "ControlFusion: A Controllable Image Fusion Network with Language-Vision Degradation Prompts", 
@@ -217,6 +221,8 @@ in **Advances in Neural Information Processing Systems (NeurIPS)**, vol. 38, pp.
   title={DSPFusion: Image Fusion via Degradation and Semantic Dual-Prior Guidance},
   author={Tang, Linfeng and Li, Chunyu and Wang, Yeda and Wang, Guoqing and Yuan, Yixuan and Ma, Jiayi},
   journal={IEEE Transactions on Image Processing},
+  volume={35},
+  pages={6331--6345},
   year={2026},
   doi={10.1109/TIP.2026.3700938}
 }

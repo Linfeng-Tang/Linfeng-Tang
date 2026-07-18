@@ -42,6 +42,9 @@
        I am currently a Postdoctoral Researcher at the <b>School of Robotics, Wuhan University</b>. My research interests include <b>Multi-modal Image Fusion, Image Enhancement, and Visual-Semantic Understanding</b>.
       </p>
       <p>
+        <b>Research Impact:</b> 6 ESI Hot Papers (top 0.1%) and 8 ESI Highly Cited Papers (top 1%).
+      </p>
+      <p>
         <b>Main Research Topics:</b>
       </p>
       <ul>
@@ -71,6 +74,16 @@
     </td>
   </tr>
 </table>
+
+### 📈 ESI Research Impact
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ESI_Hot_Papers-6-E85D3F?style=for-the-badge" alt="6 ESI Hot Papers">
+  <img src="https://img.shields.io/badge/ESI_Highly_Cited_Papers-8-2F6FB0?style=for-the-badge" alt="8 ESI Highly Cited Papers">
+</p>
+
+- **ESI Hot & Highly Cited Papers (6):** [SeAFusion](https://github.com/Linfeng-Tang/SeAFusion), [PIAFusion](https://github.com/Linfeng-Tang/PIAFusion), [SwinFusion](https://github.com/Linfeng-Tang/SwinFusion), [SuperFusion](https://github.com/Linfeng-Tang/SuperFusion), [PSFusion](https://github.com/Linfeng-Tang/PSFusion), and [DIVFusion](https://github.com/Linfeng-Tang/DIVFusion).
+- **ESI Highly Cited Papers (8):** [Mask-DiFuser](https://github.com/Linfeng-Tang/Mask-DiFuser), the six papers above, and [STDFusionNet](https://github.com/Linfeng-Tang/STDFusionNet).
 
 ---
 
@@ -108,6 +121,7 @@
 * ✨ **Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion** <br>
     ***Linfeng Tang**, Chunyu Li, Jiayi Ma* <br>
     **IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)**, vol. 48, no. 1, pp. 591-608, Jan. 2026. <br>
+    **ESI Highly Cited Paper (top 1%)** <br>
     [![Paper](https://img.shields.io/badge/Paper-IEEE_Xplore-blue)](https://doi.org/10.1109/TPAMI.2025.3609323) [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Linfeng-Tang/Mask-DiFuser) ![Citations](https://img.shields.io/badge/Cited_by-41-blueviolet)
 
 * ✨ **ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts** <br>

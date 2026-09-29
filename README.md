@@ -102,7 +102,7 @@ Google Scholar citation counts were synchronized with my [personal homepage](htt
 ---
 
 ### 🔥 Latest News
-- **[2026-09-25]** 🎉 我们的论文 **CoVisIT: Cross-modal Prior Guided Diffusion Model for Visible-to-Infrared Image Translation** 被 **NeurIPS 2026** 正式接收（**CCF A 类**）！[[Project Repository](https://github.com/Linfeng-Tang/CoVisIT)]（代码待发布）
+- **[2026-09-25]** 🎉 我们的论文 **CoVisIT: Cross-Modal Prior Guided Diffusion Model for Visible-to-Infrared Image Translation** 被 **NeurIPS 2026** 正式接收（**CCF A 类**）！[[Project Repository](https://github.com/Linfeng-Tang/CoVisIT)]（代码待发布）
 - **[2026-09-21]** 🎉 获批 **省级青年基金**：生成式多源图像自适应融合与可信感知一体化方法研究。
 - **[2026-08-26]** 🎉 获批 **国家自然科学基金青年科学基金项目（C类）**。
 - **[2026-07-24]** 🎉 获 **中国博士后科学基金第 79 批面上资助**。
@@ -127,7 +127,7 @@ Google Scholar citation counts were synchronized with my [personal homepage](htt
 > For a full list, please visit my [Personal Homepage](https://linfeng-tang.github.io/).
 
 #### 2026 & 2025
-* ✨ **CoVisIT: Cross-modal Prior Guided Diffusion Model for Visible-to-Infrared Image Translation** <br>
+* ✨ **CoVisIT: Cross-Modal Prior Guided Diffusion Model for Visible-to-Infrared Image Translation** <br>
     **Linfeng Tang**, Hu Tong, Zizhuo Li, Hao Zhang, Han Xu, Zhenfeng Shao, Jiayi Ma <br>
     **Advances in Neural Information Processing Systems (NeurIPS 2026)**, accepted. (**CCF-A**) <br>
     [Project Repository](https://github.com/Linfeng-Tang/CoVisIT) · Code not yet released
@@ -214,7 +214,7 @@ Google Scholar citation counts were synchronized with my [personal homepage](htt
 <details>
 <summary><b>⚡ Full List of Publications (1-18)</b></summary>
 
-1. **Linfeng Tang**, Hu Tong, Zizhuo Li, Hao Zhang, Han Xu, Zhenfeng Shao, and Jiayi Ma. "CoVisIT: Cross-modal Prior Guided Diffusion Model for Visible-to-Infrared Image Translation", **Advances in Neural Information Processing Systems (NeurIPS)**, 2026. (Accepted, **CCF-A**). [[Project Repository](https://github.com/Linfeng-Tang/CoVisIT)] (Code not yet released)
+1. **Linfeng Tang**, Hu Tong, Zizhuo Li, Hao Zhang, Han Xu, Zhenfeng Shao, and Jiayi Ma. "CoVisIT: Cross-Modal Prior Guided Diffusion Model for Visible-to-Infrared Image Translation", **Advances in Neural Information Processing Systems (NeurIPS)**, 2026. (Accepted, **CCF-A**). [[Project Repository](https://github.com/Linfeng-Tang/CoVisIT)] (Code not yet released)
 
 2. * ✨ **DSPFusion: Image Fusion via Degradation and Semantic Dual-Prior Guidance** <br>
     ***Linfeng Tang**, Chunyu Li, Yeda Wang, Guoqing Wang, Yixuan Yuan, Jiayi Ma* <br>
@@ -252,7 +252,7 @@ in **Advances in Neural Information Processing Systems (NeurIPS)**, vol. 38, pp.
 
 ```bibtex
 @inproceedings{Tang2026CoVisIT,
-  title={CoVisIT: Cross-modal Prior Guided Diffusion Model for Visible-to-Infrared Image Translation},
+  title={CoVisIT: Cross-Modal Prior Guided Diffusion Model for Visible-to-Infrared Image Translation},
   author={Tang, Linfeng and Tong, Hu and Li, Zizhuo and Zhang, Hao and Xu, Han and Shao, Zhenfeng and Ma, Jiayi},
   booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
   year={2026},

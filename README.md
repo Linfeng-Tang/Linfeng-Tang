@@ -45,7 +45,7 @@
         <b>Research Impact:</b> <b>18 first-author papers</b>, including <b>8 CCF-A papers</b>; 🔥 <b>6 ESI Hot Papers</b> (top 0.1%) and 🏆 <b>9 ESI Highly Cited Papers</b> (top 1%).
       </p>
       <p>
-        <b>Academic Recognition:</b> World's Top 2% Scientists (Stanford University/Elsevier), <b>2025 and 2026</b> (Single-Year Scientific Impact).
+        <b>Academic Recognition:</b> World's Top 2% Scientists (Stanford University/Elsevier), <b>2025 and 2026</b>.
       </p>
       <p>
         <b>Two Best Paper Awards:</b> Hsue-shen Tsien Paper Award (IEEE/CAA JAS Best Paper Award, 2023) and Information Fusion Best Paper Award (2024).
@@ -105,7 +105,7 @@ Google Scholar citation counts were synchronized with my [personal homepage](htt
 ---
 
 ### 🔥 Latest News
-- **[2026-10-08]** 🌟 入选 **2026 年全球前 2% 顶尖科学家榜单**（Stanford University/Elsevier，**年度科学影响力榜单**），连续两年（**2025、2026**）入选。
+- **[2026-10-08]** 🌟 入选 **2026 年全球前 2% 顶尖科学家榜单**（Stanford University/Elsevier），连续两年（**2025、2026**）入选。
 - **[2026-09-25]** 🎉 我们的论文 **CoVisIT: Cross-Modal Prior Guided Diffusion Model for Visible-to-Infrared Image Translation** 被 **NeurIPS 2026** 正式接收（**CCF A 类**）！[[Project Repository](https://github.com/Linfeng-Tang/CoVisIT)]（代码待发布）
 - **[2026-09-21]** 🎉 获批 **省级青年基金**：生成式多源图像自适应融合与可信感知一体化方法研究。
 - **[2026-08-26]** 🎉 获批 **国家自然科学基金青年科学基金项目（C类）**。

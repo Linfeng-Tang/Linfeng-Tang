@@ -42,7 +42,10 @@
        I am currently a Postdoctoral Researcher at the <b>School of Robotics, Wuhan University</b>. My research interests include <b>Information Fusion, Image Enhancement, and Visual-Semantic Understanding</b>.
       </p>
       <p>
-        <b>Research Impact:</b> <b>18 first-author papers</b>, including <b>7 CCF-A papers</b>; 🔥 <b>6 ESI Hot Papers</b> (top 0.1%) and 🏆 <b>9 ESI Highly Cited Papers</b> (top 1%).
+        <b>Research Impact:</b> <b>18 first-author papers</b>, including <b>8 CCF-A papers</b>; 🔥 <b>6 ESI Hot Papers</b> (top 0.1%) and 🏆 <b>9 ESI Highly Cited Papers</b> (top 1%).
+      </p>
+      <p>
+        <b>Academic Recognition:</b> World's Top 2% Scientists (Stanford University/Elsevier), <b>2025 and 2026</b> (Single-Year Scientific Impact).
       </p>
       <p>
         <b>Two Best Paper Awards:</b> Hsue-shen Tsien Paper Award (IEEE/CAA JAS Best Paper Award, 2023) and Information Fusion Best Paper Award (2024).
@@ -102,6 +105,7 @@ Google Scholar citation counts were synchronized with my [personal homepage](htt
 ---
 
 ### 🔥 Latest News
+- **[2026-10-08]** 🌟 再次入选 **2026 年全球前 2% 顶尖科学家榜单**（Stanford University/Elsevier，**年度科学影响力榜单**），连续两年（**2025、2026**）入选。
 - **[2026-09-25]** 🎉 我们的论文 **CoVisIT: Cross-Modal Prior Guided Diffusion Model for Visible-to-Infrared Image Translation** 被 **NeurIPS 2026** 正式接收（**CCF A 类**）！[[Project Repository](https://github.com/Linfeng-Tang/CoVisIT)]（代码待发布）
 - **[2026-09-21]** 🎉 获批 **省级青年基金**：生成式多源图像自适应融合与可信感知一体化方法研究。
 - **[2026-08-26]** 🎉 获批 **国家自然科学基金青年科学基金项目（C类）**。
@@ -240,7 +244,7 @@ in **Advances in Neural Information Processing Systems (NeurIPS)**, vol. 38, pp.
 14. **Linfeng Tang**, Jiayi Ma, Hao Zhang, and Xiaojie Guo. "DRLIE: Flexible Low-light Image Enhancement via Disentangled Representations", **IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)**, 35(2), pp. 2694-2707, 2024.【[Paper](https://ieeexplore.ieee.org/document/9833451)】【[Code](https://github.com/Linfeng-Tang/DRLIE)】
 15. Jiayi Ma, **Linfeng Tang**, Meilong Xu, Hao Zhang, and Guobao Xiao. "STDFusionNet: An Infrared and Visible Image Fusion Network Based on Salient Target Detection", **IEEE Transactions on Instrumentation and Measurement (IEEE TIM)**, 70, pp. 5009513, 2021.(ESI Highly Cited Paper)【[Paper](https://ieeexplore.ieee.org/document/9416507)】 【[Code](https://github.com/Linfeng-Tang/STDFusionNet)】
 16. Meilong Xu, **Linfeng Tang**, Hao Zhang, and Jiayi Ma. "Infrared and visible image fusion via parallel scene and texture learning", **Pattern Recognition (PR)**, 132, pp. 108929, 2022.【[Paper](https://www.sciencedirect.com/science/article/pii/S0031320322004101)】【[Code](https://github.com/Melon-Xu/PSTLFusion)】
-17. **Linfeng Tang**, Ziang Chen, Jun Huang, and Jiayi Ma. "CAMF: An Interpretable Infrared and Visible Image Fusion Network Based on Class Activation Mapping", **IEEE Transactions on Multimedia (IEEE TMM)**, 26, pp. 4776-4791, 2024.【[Paper](https://ieeexplore.ieee.org/document/10288391)】【[Code](https://github.com/Linfeng-Tang/CAMF)】
+17. **Linfeng Tang**, Ziang Chen, Jun Huang, and Jiayi Ma. "CAMF: An Interpretable Infrared and Visible Image Fusion Network Based on Class Activation Mapping", **IEEE Transactions on Multimedia (IEEE TMM)**, 26, pp. 4776-4791, 2024. (**CCF-A**)【[Paper](https://ieeexplore.ieee.org/document/10288391)】【[Code](https://github.com/Linfeng-Tang/CAMF)】
 18. **唐霖峰**, 张浩, 徐涵, 马佳义. 基于深度学习的图像融合方法综述. **中国图象图形学报 (JIG)**, 28(1), pp. 3-36, 2023. (**空天信息科技期刊高影响力论文**, **中国图象图形学报2020-2024优秀论文**, **中国图象图形学报2024年度优秀论文**, **中国图象图形学报优秀成果报告**)【[Paper](https://txtx.publish.founderss.cn/zh/article/doi/10.11834/jig.220422/)】【[Code](https://github.com/Linfeng-Tang/Image-Fusion)】
 
 </details>
